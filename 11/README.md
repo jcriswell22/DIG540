@@ -4,7 +4,7 @@ Work more with Scalar.
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/7TGOf3F2e-o>
 
 **Assignment**
 
