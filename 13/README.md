@@ -11,4 +11,4 @@ Connect platforms with content.
 
 Let me know if you have any questions or comments!
 
-**The assignment should be done by Monday Dec. 7th**
+**The assignment should be done by Wednesday Dec. 7th**
